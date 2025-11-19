@@ -1,4 +1,4 @@
-﻿using Ñetflix.Intarfaces;
+﻿using Ñetflix.Interfaces;
 using Ñetflix.Models;
 
 namespace Ñetflix.Services

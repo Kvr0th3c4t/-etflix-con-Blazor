@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using MudBlazor.Services;
 using Ñetflix;
-using Ñetflix.Intarfaces;
+using Ñetflix.Interfaces;
 using Ñetflix.Services;
 using Refit;
 
