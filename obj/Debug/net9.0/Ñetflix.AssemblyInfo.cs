@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ñetflix")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f04bc8b8a52888a516e01146d43ba6c7f28babbf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dcb304df2340fff2d9936ac3649476b2d35c79b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ñetflix")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ñetflix")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
