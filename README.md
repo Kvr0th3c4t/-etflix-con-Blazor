@@ -33,6 +33,23 @@ desde Angular hacia Blazor**, no construir una API compleja.
     formularios Blazor.
 
 ------------------------------------------------------------------------
+## 🚀 Demo
+
+**🔗 Demo en vivo:** [https://spacexinfo.adriancc.com/](https://spacexinfo.adriancc.com/)
+
+------------------------------------------------------------------------
+## 📸 Capturas de pantalla
+
+### Página Principal
+![Página Principal](./screenshots/home.png)
+
+### Detalle de la serie
+![Próximo Lanzamiento](./screenshots/verDetalle.png)
+
+### Formulario actualización
+![Lanzamientos](./screenshots/form.png)
+
+------------------------------------------------------------------------
 
 ## 🧱 Estructura del Proyecto
 
