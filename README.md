@@ -35,7 +35,7 @@ desde Angular hacia Blazor**, no construir una API compleja.
 ------------------------------------------------------------------------
 ## 🚀 Demo
 
-**🔗 Demo en vivo:** [https://spacexinfo.adriancc.com/](https://spacexinfo.adriancc.com/)
+**🔗 Demo en vivo:** [https://nextflis.adriancc.com/](https://nextflis.adriancc.com/)
 
 ------------------------------------------------------------------------
 ## 📸 Capturas de pantalla
@@ -44,7 +44,7 @@ desde Angular hacia Blazor**, no construir una API compleja.
 ![Página Principal](./screenshots/home.png)
 
 ### Detalle de la serie
-![Próximo Lanzamiento](./screenshots/verDetalle.png)
+![Próximo Lanzamiento](./screenshots/verdetalle.png)
 
 ### Formulario actualización
 ![Lanzamientos](./screenshots/form.png)
