@@ -208,8 +208,6 @@ C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\Ñetflix.f11nusyj9n.wasm
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\Ñetflix.0a4yeqod9s.pdb
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.is84zt9n9u.wasm.gz
@@ -421,8 +419,6 @@ C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\Ñetflix.f11nusyj9n.wasm.gz
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\Ñetflix.0a4yeqod9s.pdb.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\Ñetflix.staticwebassets.runtime.json
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\Ñetflix.staticwebassets.endpoints.json
@@ -857,8 +853,6 @@ C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\blazor.b
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\blazor.boot.json
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\tzxjg6is5z-guyn7gvjye.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\0wz98yz2xy-f96y5mhlyw.gz
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\ru6iqpb4am-jm72436iag.gz
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\4bg3jhz1at-m9en78hr4o.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\tg2ch7s8h2-bqjiyaj88i.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\3gj3lgpfac-c2jlpeoesf.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\wslgq5insb-erw9l3u2r3.gz
@@ -905,8 +899,6 @@ C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compress
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\0puc6ajueq-ndeh0l7c5h.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\uu9p9jqazh-npr0ahy6z9.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\s5xlkmzria-md9yvkcqlf.gz
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\whm22k5wa0-uv04imyll5.gz
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\p5y04j3fff-uv04imyll5.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\hnslgr2g30-is84zt9n9u.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\ourlsp5497-3zig3jhz80.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\854m4jjnqr-0uwmec0ev6.gz
@@ -1116,9 +1108,6 @@ C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compress
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\xtg7q66rwn-tjcz0u77k5.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\t6unnpdk6f-tptq2av103.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\faoa892pus-lfu7j35m59.gz
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\819uxq6ynb-f11nusyj9n.gz
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\e4uqdnf939-0a4yeqod9s.gz
-C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\jjtahmihbb-uuzwjd3lfw.gz
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\staticwebassets.build.json.cache
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\staticwebassets.development.json
@@ -1128,3 +1117,14 @@ C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\Ñetflix
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\refint\Ñetflix.dll
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\Ñetflix.pdb
 C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\ref\Ñetflix.dll
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\ru6iqpb4am-wfo9st0v1o.gz
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\4bg3jhz1at-r3d4riqol1.gz
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\whm22k5wa0-xc3n7zcwj7.gz
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\p5y04j3fff-xc3n7zcwj7.gz
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\Ñetflix.hd94z2rz4s.wasm
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\Ñetflix.9v59rm8e8o.pdb
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\Ñetflix.hd94z2rz4s.wasm.gz
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\bin\Release\net9.0\wwwroot\_framework\Ñetflix.9v59rm8e8o.pdb.gz
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\819uxq6ynb-hd94z2rz4s.gz
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\e4uqdnf939-9v59rm8e8o.gz
+C:\Users\Adria\OneDrive\Escritorio\Ñetflix\Ñetflix\obj\Release\net9.0\compressed\jjtahmihbb-sqnx271uoy.gz

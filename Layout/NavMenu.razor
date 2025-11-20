@@ -1,14 +1,13 @@
-﻿
-<div class="top-row ps-3 navbar" id="NavBarHeader">
+﻿<div class="top-row ps-3 navbar" id="NavBarHeader">
     <div class="container-fluid justify-content-center">
-        <img src="/assets/ñetflix.png" alt="Alternate Text" class="rounded-3 m-4 ml-1" />
+        <img src="Assets/ñetflix.png" alt="Ñetflix" class="rounded-3 m-4 ml-1" />
         <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
     </div>
 </div>
 
-<div class="@NavMenuCssClass nav-scrollable" id="NavMenu"  @onclick="ToggleNavMenu">
+<div class="@NavMenuCssClass nav-scrollable" id="NavMenu" @onclick="ToggleNavMenu">
     <nav class="nav flex-column">
         <div class="nav-item px-3">
             <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
@@ -21,7 +20,7 @@
             </NavLink>
         </div>
     </nav>
-</div> 
+</div>
 
 @code {
     private bool collapseNavMenu = true;

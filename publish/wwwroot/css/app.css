@@ -1,0 +1,136 @@
+:root {
+    --bg-primary: #221f1f;
+    --bg-secondary: #292f33;
+    --brand-primary: #E50914;
+    --text-color: #F5F5F1;
+}
+
+/* Reset minimalista */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+img, picture, video, canvas, svg {
+    display: block;
+    max-width: 100%;
+}
+
+input, button, textarea, select {
+    font: inherit;
+}
+
+
+.content {
+    padding: 1.1rem;
+}
+
+.loading-progress {
+    position: relative;
+    display: block;
+    width: 8rem;
+    height: 8rem;
+    margin: 20vh auto 1rem auto;
+}
+
+    .loading-progress circle {
+        fill: none;
+        stroke: #e0e0e0;
+        stroke-width: 0.6rem;
+        transform-origin: 50% 50%;
+        transform: rotate(-90deg);
+    }
+
+        .loading-progress circle:last-child {
+            stroke: #1b6ec2;
+            stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
+            transition: stroke-dasharray 0.05s ease-in-out;
+        }
+
+.loading-progress-text {
+    position: absolute;
+    text-align: center;
+    font-weight: bold;
+    inset: calc(20vh + 3.25rem) 0 auto 0.2rem;
+}
+
+    .loading-progress-text:after {
+        content: var(--blazor-load-percentage-text, "Loading");
+    }
+
+/*AsideNavigation*/
+
+#NavBarHeader {
+    background-color: black;
+    border-bottom: var(--brand-primary) solid 1px;
+}
+
+/*MainLayout*/
+
+#ContainerPrincipal {
+    background-color: #1F1F1F;
+}
+.CardMainContainer{
+    background-color: var(--bg-secondary)
+}
+
+.cardImage{
+    border-bottom: solid 4px var(--brand-primary);
+}
+
+.CardTitle {
+    font-weight:600;
+    color: var(--text-color);
+}
+
+.CardSubtitle {
+    font-weight: 600;
+    color: #C5C5C5;
+}
+
+.CardButton {
+    background-color: var(--brand-primary);
+    color: var(--text-color);
+    width: 120px;
+    height: 30px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 12px;
+    border: none;
+    transition: background-color 0.2s ease;
+}
+
+
+    .CardButton:hover {
+        background-color: #8E060D;
+    }
+
+
+.FormButton {
+    background-color: var(--brand-primary);
+    color: var(--text-color);
+    width: 150px;
+    height: 50px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 14px;
+    border: none;
+    transition: background-color 0.2s ease;
+}
+    .FormButton:hover {
+        background-color: #8E060D;
+    }
+
+
+.FormMainContainer {
+    background-color: #A7A7A7;
+}
+
+.FormLabel{
+    color: var(--text-color)
+}
